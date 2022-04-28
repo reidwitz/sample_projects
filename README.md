@@ -1,2 +1,2 @@
 # sample_projects
-data science project portfolio
+A data science project portfolio highlighting different skillsets
